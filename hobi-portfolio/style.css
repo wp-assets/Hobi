@@ -1,0 +1,44 @@
+/*
+Theme Name: Hobi Store
+Theme URI: http://sorolipi.com/
+Author: Iman Ali
+Author URI: http://sorolipi.com/
+Description: Our 2021 default theme is designed to show off the power of the block editor. It features custom styles for all the default blocks, and is built so that what you see in the editor looks like what you'll see on your website. Hobi Store is designed to be adaptable to a wide range of websites, whether you’re running a photo blog, launching a new business, or supporting a non-profit. Featuring ample whitespace and modern sans-serif headlines paired with classic serif body text, it's built to be beautiful on all screen sizes.
+Version: 10
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: storefront
+Tags: one-column, flexible-header, accessibility-ready, custom-colors, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, rtl-language-support, sticky-post, threaded-comments, translation-ready, block-patterns
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+Twenty Nineteen is based on Underscores https://underscores.me/, (C) 2012-2020 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+*/
+
+
+#contact .wpcf7-form.init{
+
+}
+/*front page contact style*/
+/*#contact .wpcf7-form.init p label span .wpcf7-form-control.wpcf7-text.wpcf7-validates-as-required.contact-from, .wpcf7-form-control.wpcf7-text.wpcf7-email.wpcf7-validates-as-required.wpcf7-validates-as-email {
+	width: 186%;
+}
+#contact .wpcf7-form.init p label span .wpcf7-form-control.wpcf7-textarea{
+	width: 178%;
+}
+#contact .wpcf7-form.init p .wpcf7-form-control.has-spinner.wpcf7-submit{
+	background: red;
+}*/
+.main-menu ul > li ul.sub-menu {
+	position: absolute;
+	width: 160px;
+	margin: 0;
+	z-index: 2;
+	display: none;
+}
+.main-menu ul > li:hover ul.sub-menu{
+	display: block;
+}

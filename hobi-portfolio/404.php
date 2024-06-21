@@ -1,0 +1,1 @@
+<?php echo "this is a 404 php file";?>

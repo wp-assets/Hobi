@@ -1,0 +1,427 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    .main-menu{
+        display: block;
+    }
+    #mobile-menu{
+        display: block;
+    }
+
+
+/********************/}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+.main-menu ul#mobile-menu > li > a {
+    padding: 21px 6px;
+    font-size: 14px;
+}
+.header-btn.f-right {
+    margin-top: -20px;
+}
+.header-bar i {
+    margin-top: 30px;
+}
+.marquee {
+    display: inline-block;
+    width: 90%;
+    position: absolute;
+}
+.slider-content {
+    width: 50%;
+    padding-left: 65px;
+}
+.section-title h2 {
+    font-size: 56px;
+    line-height: 90px;
+}
+.experience-area .section-title h2 {
+    font-size: 52px;
+    line-height: 67px;
+}
+.single-experience p {
+    margin: 10px 0;
+}
+.single-experience h3 {
+    margin-top: 15px;
+}
+.education-content h3 {
+    margin-top: 10px;
+    margin-bottom: 7px;
+}
+.education-area .section-title span {
+	margin-bottom: 10px;
+}
+#testimonial-area .owl-carousel .owl-stage-outer {
+    height: 450px;
+}
+.after_testimonial:after {
+    width: 225px;
+    left: 20px;
+    height: 427px;
+}
+.contact-area .sction-title h2 {
+    font-size: 63px;
+}
+
+
+
+
+
+
+
+
+/********************/}
+
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.main-menu ul > li > a {
+    padding: 21px 6px;
+    font-size: 14px;
+}
+.header-btn.f-right {
+    margin-top: -20px;
+}
+.header-bar i {
+    margin-top: 30px;
+}
+.marquee {
+    display: inline-block;
+    width: 90%;
+    position: absolute;
+}
+.slider-content {
+    width: 50%;
+    padding-left: 65px;
+}
+.section-title h2 {
+    font-size: 56px;
+    line-height: 90px;
+}
+.experience-area .section-title h2 {
+    font-size: 52px;
+    line-height: 67px;
+}
+.single-experience p {
+    margin: 10px 0;
+}
+.single-experience h3 {
+    margin-top: 15px;
+}
+.education-content h3 {
+    margin-top: 10px;
+    margin-bottom: 7px;
+}
+.education-area .section-title span {
+	margin-bottom: 10px;
+}
+#testimonial-area .owl-carousel .owl-stage-outer {
+    height: 450px;
+}
+.after_testimonial:after {
+    width: 225px;
+    left: 20px;
+    height: 427px;
+}
+.contact-area .sction-title h2 {
+    font-size: 63px;
+}
+.single-service {
+    margin-bottom: 30px;
+}
+
+/********************/}
+
+ 
+/* Extra small Device. */
+@media (max-width: 767px) {
+.counter-area {
+     padding-top: 50px;
+}
+.education-right {
+	margin-top: 50px;
+}
+
+#testimonial-area .owl-carousel .owl-stage-outer {
+	height: 553px;
+}
+.after_testimonial:after {
+    width: 300px;
+    left: 20px;
+    /*height: 427px;*/
+}
+
+.slider-content {
+    padding: 0;
+    margin-left: 5px;
+    /* width: 350px; */
+}
+.slider-content h2 {
+    font-size: 27px;
+    width: 33%;
+    line-height: 34px;
+}
+.slider-content p {
+    color: #6e7797;
+    width: 33%;
+}
+.single_slider .slider_image {
+    position: absolute;
+    width: 67%;
+    bottom: 225px;
+    right: 5px;
+}
+.single_slider .slider_image:before {
+    bottom: 12px;
+}
+.slider-content p {
+    font-size: 17px;
+}
+.slider-btn a span {
+    margin-left: -33px;
+}
+.single_slider {
+    min-height: 400px;
+}
+.single_slider .slider_image {
+    width: 53%;
+    bottom: 115px;
+    right: 4px;
+}
+.section-title h2 {
+    font-size: 45px;
+    line-height: 55px;
+}
+.about-right p {
+    font-size: 18px;
+    line-height: 28px;
+    padding-bottom: 10px;
+}
+.single-service {
+    margin-bottom: 20px;
+}
+.team-hover {
+    padding: 30px 0px;
+    margin-bottom: -15px;
+    margin-left: 26%;
+}
+.team-hover p{
+	margin-bottom: 10px;
+}
+.cta-btn {
+    margin-top: 0;
+}
+.quote-btn button {
+    padding: 17px 20px;
+    font-size: 18px;
+	margin-left: 10px;
+}
+
+.mail-btn button {
+    padding: 18px 22px;;
+    font-size: 19px;
+}
+.experience-area .section-title h2 {
+    font-size: 47px;
+    text-align: center;
+    margin-left: -100px;
+	line-height: 57px;
+}
+.experience-area .section-title span {
+    margin-left: -100px;
+}
+.single-experience i {
+    padding: 20px;
+    margin-right: 10px;
+}
+.education-content p {
+	width: 100%;
+}
+section.counter-area.pt-120.pb-120 {
+    margin-top: 600px;
+}
+.ok-sign {
+    bottom: -371px;
+}
+.single-testimonial {
+    background: #fff;
+    margin-top: 19px;
+}
+.after_testimonial {
+    padding: 10px;
+    margin: 15px;
+    /* height: 390px; */
+}
+.after_testimonial:after {
+/*    width: 239px;
+    left: 25px;*/
+    /*height: 409px;*/
+}
+button.owl-dot {
+    display: none;
+}
+
+section#portfolio {
+    margin-top: -122px;
+}
+
+.we_team .single-team img {
+    width: 100%;
+    border: 15px solid #c1c1c1;
+}
+.single-team .team-hover {
+    position: absolute;
+    bottom: -160px;
+    background: #fff;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    width: 85%;
+}
+/*mobile menu*/
+.main-menu ul > li > a {
+    padding: 10px 10px;
+}
+
+.f-right {
+    position: absolute;
+    right: 10px;
+}
+
+.mean-push #mobile-menu {
+    display: block;
+    width: auto;
+    height: 50px;
+    background: green;
+}
+
+.shopmenu ul li:first-child a {
+    margin-right: 24px;
+}
+
+
+.mean-container a.meanmenu-reveal span {
+}
+.mean-container a.meanmenu-reveal {
+    border: 0px;
+    height: 14px;
+    margin-top: 12px;
+}
+.mean-container a.meanmenu-reveal span::before {
+    background: #c41c1c none repeat scroll 0 0;
+    display: block;
+    height: 3px;
+    margin-top: 3px;
+    position: relative;
+    content: '-';
+}
+.mean-container .mean-nav ul {
+    padding: 0;
+    margin: 30px 0 auto;
+    width: 100%;
+    list-style-type: none;
+}
+.header-area .mean-container .sticky .meanmenu-reveal {
+
+}
+
+.logo {
+    margin-top: -26px;
+}
+
+.header-btn.f-right a.btn {
+	display: none;
+}
+
+.header-btn.f-right {
+    float: right;
+    margin-top: -47px;
+}
+.portfolio-menu button {
+    padding: 11px;
+}
+
+
+
+.header-area.sticky {
+    margin-top: -75px;
+}
+.site-header, .secondary-navigation ul ul, .main-navigation ul.menu > li.menu-item-has-children:after, .secondary-navigation ul.menu ul, .storefront-handheld-footer-bar, .storefront-handheld-footer-bar ul li > a, .storefront-handheld-footer-bar ul li.search .site-search, button.menu-toggle, button.menu-toggle:hover {
+    background-color: #dec99a;
+}
+button.menu-toggle, button.menu-toggle:hover {
+    /* border-color: #333333; */
+}
+nav#site-navigation {
+    margin-top: -40px;
+}
+.woocommerce-active .site-branding {
+    margin-top: 0px;
+}
+
+.main-menu ul > li {
+    width: 100%;
+    float: left;
+    text-align: left;
+    padding: 1px 7px;
+}
+
+.main-menu ul > li > a::before {
+    bottom: 0px;
+}
+
+.main-navigation ul li a:hover {
+    color: #fe3d4e;
+}
+.shopmenu ul {
+}
+.shopmenu_contact {
+    text-align: center;
+}
+.shopmenu {
+    margin-left: 2%;
+    margin-top: -23px;
+}
+.shopmenu ul li a {
+    display: block;
+    padding: 0 0px;
+    font-size: 14px;
+}
+
+/********************/}
+ 
+ /* Extra small Device. */
+@media (max-width: 767px) {
+
+}
+ 
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+/********************/}
+
+
+/* retina query */
+@media only screen and (-webkit-min-device-pixel-ratio:2) and (max-width:991.98px),only screen and (min--moz-device-pixel-ratio:2) and (max-width:991.98px),only screen and (-o-min-device-pixel-ratio:2/1) and (max-width:991.98px),only screen and (min-device-pixel-ratio:2) and (max-width:991.98px),only screen and (min-resolution:192dpi) and (max-width:991.98px),only screen and (min-resolution:2dppx) and (max-width:991.98px){
+
+.logo .standard-logo{
+  display: none;
+}
+.logo .retina-logo{
+  display: inline-block;
+}
+
+/********************/}
+
+
+@media only screen and (-webkit-min-device-pixel-ratio:2),only screen and (min--moz-device-pixel-ratio:2),only screen and (-o-min-device-pixel-ratio:2/1),only screen and (min-device-pixel-ratio:2),only screen and (min-resolution:192dpi),only screen and (min-resolution:2dppx){
+.logo .standard-logo{
+  display: none;
+}
+.logo .retina-logo{
+  display: inline-block;
+}
+
+/********************/}
